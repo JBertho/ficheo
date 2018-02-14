@@ -42,7 +42,7 @@
         }
     }
 
-    /* Isoler les balises <h4> et <h5> de $NewText et créer des ancres
+    /* Isoler les es <h4> et <h5> de $NewText et créer des ancres
     function regexPlan(){
         if (isset($_POST['text'])) {
             $NewPlan = stripslashes($_SESSION['plan']);
